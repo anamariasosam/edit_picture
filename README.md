@@ -6,5 +6,4 @@
  3.2. Para la versión sin la zona central, completa la parte faltante con alguno de los dos algoritmos de interpolación.
 4. Compara las tres fotos. Encuentra una medida que te permita conocer cuál de los dos fotos  completadas se parece más a la original.
 5. Guarda todos los algoritmos COMENTADOS y los archivos que utilizaste para el desarrollo del taller. Comprímelos y súbelos a la plataforma. Adjunta un archivo .txt con las instrucciones para el manejo de los códigos con el fin de que alguien más pueda reproducir tu experimento.
- 6. La sustentación será el día martes en el horario de clase.
- 
+6. La sustentación será el día martes en el horario de clase.
